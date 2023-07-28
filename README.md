@@ -1,3 +1,2 @@
 # mindCamp
-First repo on GitHub
-well well, Welcome to the read - me. Vol.1
+We wouldn't be nothin' withoutcome.
